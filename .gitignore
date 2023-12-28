@@ -39,3 +39,8 @@ luac.out
 *.x86_64
 *.hex
 
+# Lazy Lock file
+lazy-lock.json
+
+# Finder
+.DS_Store
