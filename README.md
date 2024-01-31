@@ -8,5 +8,5 @@ After cloning this repository, use a symbolic link to point nvim to it. Beware t
 
 ```shell
 rm -rf ~/.config/nvim
-ln -s nvim-config ~/.config/nvim
+ln -s $(pwd)/nvim-config ~/.config/nvim
 ```
